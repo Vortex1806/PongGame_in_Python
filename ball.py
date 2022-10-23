@@ -27,6 +27,6 @@ class Ball(Turtle):
         self.goto(0,0)
         self.xmove *= -1
         self.ymove *= -1
-
+#hwllo
 
 

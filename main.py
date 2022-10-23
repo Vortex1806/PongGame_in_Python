@@ -20,7 +20,7 @@ screen.onkey(l_paddle.go_down, "s")
 
 ball = Ball()
 scoreboard = Scoreboard()
-
+#hello
 game_is_on = True
 while game_is_on:
     time.sleep(0.06)
