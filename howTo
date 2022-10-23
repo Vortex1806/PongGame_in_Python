@@ -1,0 +1,11 @@
+The ball
+The score
+The paddle (computer + human )
+
+1. Create screen
+2. create and move paddle
+3. create another paddle
+4. create ball and make it move
+5. detect collision with paddle or wall
+6. Detect when paddle misses
+7. create a scoreboard
